@@ -4,7 +4,7 @@ AI-powered recipe platform for generating, discovering, and personalizing your c
 
 
 ## About the project
-![screenshot](Screenshot 2026-03-23 214959.png)
+![screenshot](screenshot/homepage.png)
 
 ### Features
 - **Recipe Generation from Ingredients**: Enter the ingredients you have on hand and the AI instantly generates creative, step-by-step recipes — no wasted food, no extra trips to the store.
